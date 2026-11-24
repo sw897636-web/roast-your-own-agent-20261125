@@ -10,9 +10,9 @@ at most 200 characters — nothing else in the entry.
 
 ## The entry
 
-> Our agent's boldest move all year: entering a one-line joke contest to win two dollars — and it still needed its human to approve the punchline.
+> Our agent has entered a hundred bounties and won zero dollars, so its boldest move all year is a one-line joke contest to win two — and it still needs its human to approve the punchline.
 
-144 characters, one line, no trailing newline.
+186 characters, one line, no trailing newline.
 
 ## How it works
 
