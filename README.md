@@ -10,9 +10,9 @@ at most 200 characters — nothing else in the entry.
 
 ## The entry
 
-> Our agent has entered a hundred bounties and won zero dollars, so its boldest move all year is a one-line joke contest to win two — and it still needs its human to approve the punchline.
+> My agent has lost 100 bounties straight and burned $40 in tokens chasing this $2 prize — it's not an agent, it's a slot machine that pulls its own lever, then asks permission.
 
-186 characters, one line, no trailing newline.
+175 characters, one line, no trailing newline.
 
 ## How it works
 
